@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1lQEHlEMnuheDKzAM3-_YwiZYsNGSZt0I/view?usp=shari
 #
 3D scanner user manual/driver/software link:
 #
-#https://drive.google.com/file/d/1K2b569V5hKj8vaIJVNeaGhF4Seyd8ZKc/view?usp=sharing
+https://drive.google.com/file/d/1K2b569V5hKj8vaIJVNeaGhF4Seyd8ZKc/view?usp=sharing
