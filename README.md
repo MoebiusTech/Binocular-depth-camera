@@ -8,3 +8,7 @@ https://drive.google.com/file/d/1E8lriEA9I4i7u5s7qpHhvjgjGkzOMpsC/view?usp=shari
 Other information for this camera:
 #
 https://drive.google.com/file/d/1lQEHlEMnuheDKzAM3-_YwiZYsNGSZt0I/view?usp=sharing
+
+#
+ORBBEC 3D Club
+https://3dclub.orbbec3d.com/
