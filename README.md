@@ -3,7 +3,7 @@ Binocular depth cameraOrbbecSDK development and use instructions
 #
 # 3D scanner user manual/driver/software link:
 #
-https://drive.google.com/file/d/1E8lriEA9I4i7u5s7qpHhvjgjGkzOMpsC/view?usp=sharing
+https://drive.google.com/file/d/10Ehywj3SVQdxZU2agK4ZssbAb3HNws6t/view?usp=sharing
 #
 Other information for this camera:
 #
